@@ -1,6 +1,6 @@
 {
-  "version": "3.4.3",
-  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.4.3/SportiumTester.exe",
-  "sha256": "455beb1adfc9feba4d1ce3a52f53dc614ce116ab904ad26e5187e4984098a9d2",
-  "notas": "- Corregido el reinicio automatico tras actualizar\n- Nueva prueba: Navegación por la sidebar 'Mi cuenta' (México)"
+  "version": "3.4.4",
+  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.4.4/SportiumTester.exe",
+  "sha256": "b18f8fea844eaad2b68149d9e42bd7f39a2d0b262fafd3e6d4ea45a723bc4d53",
+  "notas": "- Si ves esta linea, el ciclo completo de actualizacion funciono\n- Nueva prueba: Navegación por la sidebar 'Mi cuenta' (México)"
 }
