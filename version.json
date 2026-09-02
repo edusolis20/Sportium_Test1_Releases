@@ -1,6 +1,6 @@
 {
-  "version": "3.4.4",
-  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.4.4/SportiumTester.exe",
-  "sha256": "b18f8fea844eaad2b68149d9e42bd7f39a2d0b262fafd3e6d4ea45a723bc4d53",
-  "notas": "- Si ves esta linea, el ciclo completo de actualizacion funciono\n- Nueva prueba: Navegación por la sidebar 'Mi cuenta' (México)"
+  "version": "3.4.5",
+  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.4.5/SportiumTester.exe",
+  "sha256": "db97272d9c665cb0d85fe31bd8aa1dca9a7921830e949a461f0f57b13e7f3f85",
+  "notas": "- Reinicio tras actualizar compatible con antivirus corporativos\n- Nueva prueba: Navegación por la sidebar 'Mi cuenta' (México)"
 }
