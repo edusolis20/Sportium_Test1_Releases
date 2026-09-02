@@ -1,6 +1,6 @@
 {
-  "version": "3.4.0",
-  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.4.0/SportiumTester.exe",
-  "sha256": "a3ca98a1991e19a7dda80f3dda953f23bb3b0701ef53ee39350377a1d497fa8c",
-  "notas": "- Nueva prueba: Navegación por la sidebar 'Mi cuenta' (México)\n- Actualización automática desde la propia herramienta"
+  "version": "3.4.1",
+  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.4.1/SportiumTester.exe",
+  "sha256": "5c97246481795091485ecb024045e12c9cbb167997947f597cfa7ef9c43f6b32",
+  "notas": "- Version de prueba: si estas leyendo esto, la actualizacion automatica funciono\n- Nueva prueba: Navegación por la sidebar 'Mi cuenta' (México)"
 }
