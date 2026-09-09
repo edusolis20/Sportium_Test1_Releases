@@ -1,6 +1,6 @@
 {
-  "version": "3.4.5",
-  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.4.5/SportiumTester.exe",
-  "sha256": "db97272d9c665cb0d85fe31bd8aa1dca9a7921830e949a461f0f57b13e7f3f85",
-  "notas": "- Reinicio tras actualizar compatible con antivirus corporativos\n- Nueva prueba: Navegación por la sidebar 'Mi cuenta' (México)"
+  "version": "3.5.0",
+  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.5.0/SportiumTester.exe",
+  "sha256": "f443c2f6e7ce4d14a5c59abc508458b2209fb50fbe9fe0105e50546acbe89b36",
+  "notas": "- Navegación Sidebar completo: ahora prueba también el desglose del saldo, \n- los botones Depositar y Retirar, y el cierre de sesión\n- La sidebar se prueba desde una vertical distinta en cada ejecución \n- (apuestas, casino, slots, poker...)\n- La captura del reporte muestra la sidebar abierta, no la página final\n- El tiempo del reporte es la duración completa del recorrido, con \n- desglose por fases"
 }
