@@ -1,6 +1,6 @@
 {
-  "version": "3.5.0",
-  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.5.0/SportiumTester.exe",
-  "sha256": "f443c2f6e7ce4d14a5c59abc508458b2209fb50fbe9fe0105e50546acbe89b36",
-  "notas": "- Navegación Sidebar completo: ahora prueba también el desglose del saldo, \n- los botones Depositar y Retirar, y el cierre de sesión\n- La sidebar se prueba desde una vertical distinta en cada ejecución \n- (apuestas, casino, slots, poker...)\n- La captura del reporte muestra la sidebar abierta, no la página final\n- El tiempo del reporte es la duración completa del recorrido, con \n- desglose por fases"
+  "version": "3.5.1",
+  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.5.1/SportiumTester.exe",
+  "sha256": "5c0bc1fe54632c19c775699262f3fe4c60b3744a980f7d1529252a3c17a0829e",
+  "notas": "- El aviso de actualización ya no promete que la herramienta se reabra \n- sola: en equipos con antivirus corporativo hay que abrirla a mano, y la \n- actualización ya está aplicada"
 }
