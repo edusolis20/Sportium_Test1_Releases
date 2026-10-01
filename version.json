@@ -1,6 +1,6 @@
 {
-  "version": "3.6.0",
-  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.6.0/SportiumTester.exe",
-  "sha256": "8eca21cfb65237d5e1ec4398462d5aa68a74e5b435dcd0f2b752c5bc70555e4a",
-  "notas": "- Navegación Sidebar completo disponible también para Panamá, Marca \n- Apuestas y Casino Marbella (Marca y Marbella pendientes de validar en la \n- red de QA)\n- La prueba de la sidebar reconoce las opciones que abren un modal (cajero, \n- verificación) y lo cierra sin tocar nada dentro\n- Si la vertical de arranque ya es el destino de una opción, se marca como \n- aviso 'no comprobable' en vez de fallo\n- Marca y Marbella: el login ya no se da por bueno cuando el sitio lo \n- rechaza, y el reporte muestra el mensaje real (p. ej. bloqueo por ubicación)\n- Marca y Marbella: el login espera a que el formulario sea usable antes de \n- escribir (evita 'element not interactable')"
+  "version": "3.6.1",
+  "url": "https://github.com/edusolis20/Sportium_Test1_Releases/releases/download/v3.6.1/SportiumTester.exe",
+  "sha256": "c930f73bdb5dc16cd287aab693627a3e39d95d4c078f59a321a15376588e302f",
+  "notas": "- Corrección del login para Sportium España"
 }
